@@ -1,0 +1,1 @@
+JavaScript is widely used as a scripting language for both client-side and server-side scripting tasks. It's commonly used for automation, building web server scripts, and developing utilities and tools.

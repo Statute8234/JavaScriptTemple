@@ -1,0 +1,1 @@
+JavaScript is not traditionally associated with data analysis and scientific computing, but it has gained traction in recent years with libraries like TensorFlow.js and D3.js for machine learning and data visualization tasks.
